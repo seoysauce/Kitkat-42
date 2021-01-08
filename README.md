@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=EADBCB&height=300&section=header&text=Kitkat-42&fontSize=70&fontAlign=70&fontAlignY=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=EADBCB&height=300&section=header&text=Kitkat-42&fontSize=70&fontAlign=75&fontAlignY=30&animation=fadeIn)
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
 <!--

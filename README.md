@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EADBCB&height=300&section=header&text=Kitkat-42&fontSize=70&fontAlign=75&fontAlignY=30&animation=fadeIn)
 <p align=center>
-<img src="https://www.42.us.org/wp-content/uploads/2019/03/logo-1.png" height="30px" />
-intra ID : seojeong
+<img src="https://www.42.us.org/wp-content/uploads/2019/03/logo-1.png" height="30px" />&nbsp
+<span fontweight="800" fontsize="20px"> intra ID : seojeong
 </p>
 <p align=center>
-### 💪Tech Stack
+  <span fontweight="800" fontsize="20px">💪Tech Stack</span>
 </p>
 <p align=center>
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp

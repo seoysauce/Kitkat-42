@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=E3CEB9&height=400&section=header&text=Kitkat-42&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=E3CEB9&height=300&section=header&text=%80Kitkat-42&fontSize=70)
 
 
 ### Hi there 👋

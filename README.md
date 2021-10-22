@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EADBCB&height=200&section=header&text=Kitkat-42&fontColor=CC0000&fontSize=80&animation=fadeIn)
 
-### <img src="https://www.42.us.org/wp-content/uploads/2019/03/logo-1.png" height="20px" /> intra ID : seojeong
+### 42 intra ID : seojeong
 
 ### 💪Tech Stack
 

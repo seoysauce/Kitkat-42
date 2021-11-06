@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=EADBCB&height=200&section=header&text=seoysauce&fontColor=CC0000&fontSize=80&animation=fadeIn)
-
+Seoyoung Jeong
 
 ### 💪Tech Stack
 

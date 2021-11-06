@@ -1,4 +1,4 @@
-Seoyoung Jeong
+### Seoyoung Jeong
 
 ### 💪Tech Stack
 

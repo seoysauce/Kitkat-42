@@ -1,4 +1,4 @@
-## Seoyoung Jeong
+### Seoyoung Jeong
 
 ### 💪Tech Stack
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"/></a>
 </p>
 
-## 42 Intra ID: seojeong
+### 42 Intra ID: seojeong
 
 
 <!--

@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"/></a>
 </p>
 
+### 42 Intra ID: seojeong
+
 [![seojeong's 42 stats](https://badge42.herokuapp.com/api/stats/seojeong)](https://github.com/JaeSeoKim/badge42)
 
 <!--

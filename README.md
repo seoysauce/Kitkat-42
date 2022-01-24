@@ -1,8 +1,14 @@
-<h1 align="center">Seoyoung Jeong</h1>
+<h2 align="center">Hi, I'm Seoyoung Jeong</h2>
+<!-- <div align="center">
+  <div align="left">- 🔭 Front-End Developer  </div>
+  <div align="left">- 🌱 currently learning at 42 Seoul</div>
+  <div align="left">- 📫 How to reach me: <a href="mailto:issyo1022@gmail.com">issyo1022@gmail.com</a></div>
+</div> -->
+<h3 align="center"> 42 Intra ID: seojeong</h3>
 
-### 💪Tech Stack
+<h3 align="center"> 💪Tech Stack</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -12,12 +18,13 @@
 <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"/></a>
 </p>
 
-### 42 Intra ID: seojeong
+
+<div align="center">
 
 [![seojeong's 42 stats](https://badge42.herokuapp.com/api/stats/seojeong)](https://github.com/JaeSeoKim/badge42)
-
 ![Seoysauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoysauce&show_icons=true&theme=dracula)
 
+</div>
 <!--
 **Kitkat-42/Kitkat-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

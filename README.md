@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Seoyoung Jeong</h2>
+<!-- <h2 align="center">Hi, I'm Seoyoung Jeong</h2> -->
 <!-- <div align="center">
   <div align="left">- 🔭 Front-End Developer  </div>
   <div align="left">- 🌱 currently learning at 42 Seoul</div>
